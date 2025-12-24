@@ -1,0 +1,94 @@
+# Dependencies & Packages
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+.Pipfile
+*.whl
+*.egg-info/
+.eggs/
+dist/
+build/
+.coverage
+.coverage.*
+.htmlcov/
+.pytest_cache/
+.nyc_output/
+.npm
+.yarn
+.yarn-cache
+node_modules/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vs/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db:encryptable
+
+# Build & Runtime
+*.dll
+*.exe
+*.msi
+*.log
+logs/
+tmp/
+temp/
+
+# UTCP specific
+*.utcp
+.utcp_cache/
+.utcp_data/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Upstream clones (but keep the directory)
+UPSTREAM/*/
+!UPSTREAM/.gitkeep
+
+# Documentation builds
+docs/_build/
+*.pdf
+*.epub
+*.mobi
+
+# Testing
+coverage/
+.coverage*
+nosetests.xml
+test/
+tests_output/
+
+# CI/CD
+.github/workflows/
+.circleci/
+.travis.yml
+.gitlab-ci.yml
+jenkinsfile
