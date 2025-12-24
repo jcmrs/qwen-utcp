@@ -1,8 +1,3 @@
-{
-  "repository": "benchmarks",
-  "commit_hash": "d3785f6bee83770b177fed58b58a611734a0227e",
-  "commit_timestamp": "1762862194",
-  "file_count": 0,
-  "extractions": [],
-  "timestamp": "2025-12-24T18:55:58.577077"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5af16995bca25ae6515eca4955d39b0ed3ae85d8a5d4b2619ba2ac66e94bc08e
+size 221

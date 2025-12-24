@@ -1,14 +1,3 @@
-[
-  {
-    "name": "co_occurrence_pattern",
-    "description": "Relationship pattern 'co_occurrence' appears 201655 times",
-    "frequency": 201655,
-    "timestamp": "2025-12-24T20:50:33.487521"
-  },
-  {
-    "name": "contains_pattern",
-    "description": "Relationship pattern 'contains' appears 21647 times",
-    "frequency": 21647,
-    "timestamp": "2025-12-24T20:50:33.487521"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8d2dab113d1bee06d1e7ac9d0d81e539ef17a6748d235455c06dbe09e5d90c0
+size 397
