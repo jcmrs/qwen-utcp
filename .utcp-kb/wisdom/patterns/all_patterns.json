@@ -1,0 +1,14 @@
+[
+  {
+    "name": "co_occurrence_pattern",
+    "description": "Relationship pattern 'co_occurrence' appears 201655 times",
+    "frequency": 201655,
+    "timestamp": "2025-12-24T20:50:33.487521"
+  },
+  {
+    "name": "contains_pattern",
+    "description": "Relationship pattern 'contains' appears 21647 times",
+    "frequency": 21647,
+    "timestamp": "2025-12-24T20:50:33.487521"
+  }
+]

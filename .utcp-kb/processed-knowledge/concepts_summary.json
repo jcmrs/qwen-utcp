@@ -1,0 +1,27 @@
+{
+  "total_concepts": 28616,
+  "concept_types": {
+    "title": 1148,
+    "term": 21647,
+    "path_component": 5821
+  },
+  "source_repositories": {
+    "agent-implementation-example": 246,
+    "chat-utcp": 548,
+    "code-mode": 449,
+    "elixir-utcp": 1883,
+    "go-utcp": 3934,
+    "go-utcp-mcp-bridge": 46,
+    "langchain-utcp-adapters": 497,
+    "pydantic-ai-utcp": 389,
+    "python-utcp": 6490,
+    "rs-utcp": 1991,
+    "strands-utcp": 145,
+    "typescript-utcp": 3009,
+    "utcp-agent": 217,
+    "utcp-examples": 1662,
+    "utcp-mcp": 806,
+    "utcp-specification": 6304
+  },
+  "timestamp": "2025-12-24T20:50:33.422842"
+}

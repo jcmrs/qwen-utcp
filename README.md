@@ -5,8 +5,11 @@ This repository is dedicated to studying and implementing challenges related to 
 ## Project Structure
 - `UPSTREAM/` - Contains upstream clones of remote repositories for study and analysis
 - `src/` - Source code for UTCP implementations and challenges
-- `docs/` - Documentation related to UTCP research
+- `docs/` - Documentation related to UTCP research and analysis
 - `experiments/` - Experimental implementations and tests
+- `tools/` - Utility tools and scripts
+- `tests/` - Test suites
+- `config/` - Configuration files
 
 ## Getting Started
 1. Clone the repository
